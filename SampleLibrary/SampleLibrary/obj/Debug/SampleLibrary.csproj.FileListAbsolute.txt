@@ -1,0 +1,11 @@
+\\student2018\home\SY181273\Documents\NewBRO\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.dll
+\\student2018\home\SY181273\Documents\NewBRO\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.pdb
+\\student2018\home\SY181273\Documents\NewBRO\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.csprojAssemblyReference.cache
+\\student2018\home\SY181273\Documents\NewBRO\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+\\student2018\home\SY181273\Documents\NewBRO\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.dll
+\\student2018\home\SY181273\Documents\NewBRO\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.pdb
+C:\CourseWork\NewBRO\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.dll
+C:\CourseWork\NewBRO\SampleLibrary\SampleLibrary\bin\Debug\SampleLibrary.pdb
+C:\CourseWork\NewBRO\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.csprojAssemblyReference.cache
+C:\CourseWork\NewBRO\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.dll
+C:\CourseWork\NewBRO\SampleLibrary\SampleLibrary\obj\Debug\SampleLibrary.pdb
